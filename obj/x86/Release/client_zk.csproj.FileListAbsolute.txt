@@ -1,0 +1,11 @@
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\bin\Release\client_zk.exe.config
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\bin\Release\client_zk.exe
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\bin\Release\client_zk.pdb
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\bin\Release\Newtonsoft.Json.dll
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\obj\x86\Release\client_zk.Form1.resources
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\obj\x86\Release\client_zk.order_history_form.resources
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\obj\x86\Release\client_zk.Properties.Resources.resources
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\obj\x86\Release\client_zk.csproj.GenerateResource.Cache
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\obj\x86\Release\client_zk.exe
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\obj\x86\Release\client_zk.pdb
+C:\Users\jc\documents\visual studio 2010\Projects\client_zk\client_zk\obj\x86\Release\client_zk.csprojResolveAssemblyReference.cache
